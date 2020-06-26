@@ -2,14 +2,14 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acme Corporation</title>
-    <link>http://example.org/</link>
+    <link>http://homerhanumat.github.io/acme-corporation/</link>
     <description>Recent content on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://homerhanumat.github.io/acme-corporation/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
