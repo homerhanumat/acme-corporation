@@ -1,4 +1,4 @@
-baseURL: http://example.org/                  # URL of the website
+baseURL: http://homerhanumat.github.io/acme-corporation                  # URL of the website
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 publishDir: docs                              # to host on github
